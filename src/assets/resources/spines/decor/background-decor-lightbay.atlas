@@ -1,0 +1,48 @@
+
+background-decor-lightbay.webp
+size: 120,65
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: true
+  xy: 21, 49
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+green
+  rotate: true
+  xy: 53, 41
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hong
+  rotate: true
+  xy: 45, 2
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 6
+  size: 41, 41
+  orig: 94, 94
+  offset: 25, 24
+  index: -1
+pink
+  rotate: true
+  xy: 2, 53
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+vang
+  rotate: true
+  xy: 91, 41
+  size: 22, 27
+  orig: 23, 28
+  offset: 0, 1
+  index: -1

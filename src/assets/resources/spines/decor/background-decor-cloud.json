@@ -1,0 +1,54 @@
+{
+"skeleton": {
+	"hash": "EZVWJ2oGzSPqQ7vJ4jpOuUJ5DdQ",
+	"spine": "3.8.99",
+	"x": -944.19,
+	"y": -774.64,
+	"width": 1769.91,
+	"height": 1475.54,
+	"images": "",
+	"audio": "D:/MYWORKFOLDER/design/slot-aladdin/effect/free-spin"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "cloud", "parent": "root", "x": -533.52, "y": -532.24, "scaleX": 1.2, "scaleY": 1.2 }
+],
+"slots": [
+	{ "name": "cloud", "bone": "cloud", "attachment": "cloud", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"cloud": {
+				"cloud": { "width": 638, "height": 404 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"cloud": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.7667, "color": "ffffff32" },
+					{ "time": 2.6667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"cloud": {
+				"translate": [
+					{ "x": 224.74, "y": 199.4 },
+					{ "time": 2.6667, "x": 336.77, "y": 625.32 }
+				],
+				"scale": [
+					{},
+					{ "time": 2.6667, "x": 1.414, "y": 1.414 }
+				]
+			}
+		}
+	}
+}
+}

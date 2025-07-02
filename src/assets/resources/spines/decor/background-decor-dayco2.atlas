@@ -1,0 +1,13 @@
+
+background-decor-dayco2.webp
+size: 405,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dayco-small3
+  rotate: false
+  xy: 2, 2
+  size: 401, 96
+  orig: 401, 96
+  offset: 0, 0
+  index: -1
