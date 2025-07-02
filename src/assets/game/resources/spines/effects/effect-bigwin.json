@@ -1,9 +1,9 @@
 {
 "skeleton": {
-	"hash": "eUr5VSWZI7KhacbhVG6chyS9alM",
+	"hash": "Vg/cbLwFK1l1170qvDmx6LlUB2Q",
 	"spine": "3.8.99",
 	"x": -243,
-	"y": -106.11,
+	"y": -126.11,
 	"width": 486,
 	"height": 420,
 	"images": "./ime/",
@@ -11,7 +11,7 @@
 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "all-all", "parent": "root", "y": -40 },
+	{ "name": "all-all", "parent": "root", "y": -60 },
 	{ "name": "bone5", "parent": "all-all", "y": -25.28 },
 	{ "name": "gold", "parent": "bone5", "x": -32.1, "y": 160, "scaleX": 0.8, "scaleY": 0.8 },
 	{ "name": "gold1", "parent": "gold" },
@@ -56,7 +56,7 @@
 	{ "name": "character", "parent": "bone5", "y": 15.21 },
 	{ "name": "frame", "parent": "all-all" },
 	{ "name": "text-bigwin", "parent": "all-all", "y": 86.6 },
-	{ "name": "money-number", "parent": "all-all", "y": 8 },
+	{ "name": "money-number", "parent": "all-all", "y": -1.27 },
 	{ "name": "bg", "parent": "bone5", "y": 15.21 },
 	{ "name": "outer", "parent": "character", "y": 77.38 },
 	{ "name": "fire", "parent": "character", "x": -207.35, "y": -17.02 },
