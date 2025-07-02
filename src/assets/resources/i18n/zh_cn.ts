@@ -248,7 +248,7 @@ export const languages = {
         "gameNames.47": "宝藏岛",
         "header_no": "号",
         "header_result_board": "结果板",
-        "header_tumble_win": "翻滚赢",
+        "header_tumble_win": "连续中奖",
         "header_win_amount": "获胜金额",
         "header_win_symbols": "赢符号",
         "index": "号",
@@ -273,16 +273,16 @@ export const languages = {
         "total_bet_shorten": "总投注",
         "total_multiplier": "总乘数",
         "total_win": "赢",
-        "trial_mode": "试用模式",
+        "trial_mode": "试玩模式",
         "trial_mode_text": "您处于试用模式",
         "turbo_mode": "涡轮模式",
         "warning_trial_mode": "真玩，\\n赢真钱",
         "win_tumble_msg": "恭喜！",
         "you_win_free_spin": "您赢得"
     },
-    "FruitSamurai": {
-        "game_icon_name": "武士水果",
-        "game_name": "武士水果"
+    "VivaFiesta": {
+        "game_icon_name": "狂欢节万岁",
+        "game_name": "狂欢节万岁"
     }
 };
 
