@@ -1890,8 +1890,8 @@
     "__prefab": null,
     "_alignFlags": 44,
     "_target": null,
-    "_left": 0,
-    "_right": 0,
+    "_left": 30,
+    "_right": 30,
     "_top": 0,
     "_bottom": 0,
     "_horizontalCenter": 0,
@@ -2213,7 +2213,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 660,
+      "width": 720,
       "height": 550
     },
     "_anchorPoint": {
@@ -6033,7 +6033,7 @@
     },
     "_fillStart": 0,
     "_fillRange": 0,
-    "_isTrimmedMode": false,
+    "_isTrimmedMode": true,
     "_useGrayscale": false,
     "_atlas": null,
     "_id": "1fSVckRd1EtaDi/THG0VG9"
