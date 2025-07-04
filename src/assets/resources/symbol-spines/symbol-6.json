@@ -1,11 +1,11 @@
 {
 "skeleton": {
-	"hash": "TBxkT+sfVEDgRy8jyi5369UuE6k",
+	"hash": "ArvaBszwg7YCJYIxsJCZs31x318",
 	"spine": "3.8.99",
-	"x": -75,
-	"y": -75,
-	"width": 150,
-	"height": 150,
+	"x": -49.46,
+	"y": -54.5,
+	"width": 99.05,
+	"height": 102.05,
 	"images": "./ime/",
 	"audio": "E:/PG/68/assets/resources/spine"
 },
@@ -30,8 +30,8 @@
 	{ "name": "light4", "bone": "light4", "blend": "additive" },
 	{ "name": "light5", "bone": "light5", "blend": "additive" },
 	{ "name": "music1/music00", "bone": "music1" },
-	{ "name": "boom/xspark00", "bone": "explode", "attachment": "boom/xspark20" },
-	{ "name": "phaohoa/phaohoa00", "bone": "vfx", "attachment": "phaohoa/phaohoa27" }
+	{ "name": "boom/xspark00", "bone": "explode" },
+	{ "name": "phaohoa/phaohoa00", "bone": "vfx" }
 ],
 "skins": [
 	{

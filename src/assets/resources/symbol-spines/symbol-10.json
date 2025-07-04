@@ -1,11 +1,11 @@
 {
 "skeleton": {
-	"hash": "IwqsAAzBRcbqzGqXDvviQ5BAwWc",
+	"hash": "p+mRLA0ClP70nm6Walx1nEjBAP8",
 	"spine": "3.8.99",
-	"x": -60.7,
+	"x": -39.54,
 	"y": -42.5,
-	"width": 125.17,
-	"height": 87.47,
+	"width": 104,
+	"height": 85,
 	"images": "./ime/",
 	"audio": "E:/PG/18/assets/resources/unknown/spine/f594a972-612e-4c2c-99e8-c51c04d10c47"
 },
@@ -15,17 +15,15 @@
 	{ "name": "hat", "parent": "all", "x": 12.46, "color": "7e3333ff" },
 	{ "name": "hat1", "parent": "hat", "color": "25ff00ff" },
 	{ "name": "Glow", "parent": "hat", "x": -14.98, "y": -16.07, "scaleX": 0.9, "scaleY": 0.9 },
-	{ "name": "sao", "parent": "all", "x": -14.73 },
 	{ "name": "phaohoa", "parent": "all", "x": -13.75, "scaleX": 0.9754, "scaleY": 0.9754 },
 	{ "name": "Glow2", "parent": "hat", "x": -21.01, "y": 0.82, "scaleX": 0.9, "scaleY": 0.9 },
 	{ "name": "explode", "parent": "all" },
 	{ "name": "phaohoa2", "parent": "root", "scaleX": 0.9754, "scaleY": 0.9754 }
 ],
 "slots": [
-	{ "name": "glow2", "bone": "Glow2", "color": "ffffffc7", "attachment": "glow2", "blend": "additive" },
+	{ "name": "glow2", "bone": "Glow2", "color": "ffffffc7", "blend": "additive" },
 	{ "name": "hat11", "bone": "hat1", "attachment": "hat11" },
 	{ "name": "glow", "bone": "Glow", "blend": "additive" },
-	{ "name": "sao/1", "bone": "sao", "blend": "additive" },
 	{ "name": "phaohoa/phaohoa00", "bone": "phaohoa" },
 	{ "name": "phaohoa/phaohoa0", "bone": "phaohoa2" },
 	{ "name": "boom/xspark00", "bone": "explode" }
@@ -125,23 +123,6 @@
 				"phaohoa/phaohoa25": { "width": 110, "height": 110 },
 				"phaohoa/phaohoa26": { "width": 110, "height": 110 },
 				"phaohoa/phaohoa27": { "width": 110, "height": 110 }
-			},
-			"sao/1": {
-				"sao/1": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/2": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/3": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/4": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/5": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/6": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/7": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/8": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/9": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/10": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/11": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/12": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/13": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/14": { "x": 0.5, "width": 127, "height": 116 },
-				"sao/15": { "x": 0.5, "width": 127, "height": 116 }
 			}
 		}
 	}
@@ -172,11 +153,6 @@
 					{ "time": 0.6, "name": "boom/xspark18" },
 					{ "time": 0.6333, "name": "boom/xspark19" },
 					{ "time": 0.6667, "name": "boom/xspark20" }
-				]
-			},
-			"glow2": {
-				"attachment": [
-					{ "name": null }
 				]
 			},
 			"hat11": {
@@ -311,26 +287,6 @@
 					{ "time": 1.1667, "name": "phaohoa/phaohoa27" },
 					{ "time": 1.2, "name": null }
 				]
-			},
-			"sao/1": {
-				"attachment": [
-					{ "time": 0.5, "name": "sao/1" },
-					{ "time": 0.5333, "name": "sao/2" },
-					{ "time": 0.5667, "name": "sao/3" },
-					{ "time": 0.6, "name": "sao/4" },
-					{ "time": 0.6333, "name": "sao/5" },
-					{ "time": 0.6667, "name": "sao/6" },
-					{ "time": 0.7, "name": "sao/7" },
-					{ "time": 0.7333, "name": "sao/8" },
-					{ "time": 0.7667, "name": "sao/9" },
-					{ "time": 0.8, "name": "sao/10" },
-					{ "time": 0.8333, "name": "sao/11" },
-					{ "time": 0.8667, "name": "sao/12" },
-					{ "time": 0.9, "name": "sao/13" },
-					{ "time": 0.9333, "name": "sao/14" },
-					{ "time": 0.9667, "name": "sao/15" },
-					{ "time": 1, "name": null }
-				]
 			}
 		},
 		"bones": {
@@ -413,12 +369,6 @@
 					{ "time": 1.4333 }
 				]
 			},
-			"sao": {
-				"scale": [
-					{},
-					{ "time": 1, "x": 1.181, "y": 1.181 }
-				]
-			},
 			"Glow2": {
 				"translate": [
 					{ "time": 0.2667, "x": 5.96 },
@@ -444,13 +394,6 @@
 		}
 	},
 	"idle": {
-		"slots": {
-			"glow2": {
-				"attachment": [
-					{ "name": null }
-				]
-			}
-		},
 		"bones": {
 			"hat": {
 				"translate": [
