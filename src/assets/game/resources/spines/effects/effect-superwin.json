@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "VJklTSdFTXajUb541LUdPKGqPzU",
+	"hash": "RrCt2NBPfhXYw5oNgD8z51iYjaA",
 	"spine": "3.8.99",
 	"x": -243,
 	"y": -111.98,
@@ -55,7 +55,7 @@
 	{ "name": "gold63", "parent": "gold62" },
 	{ "name": "character", "parent": "bone5", "y": 15.21 },
 	{ "name": "frame", "parent": "all-all" },
-	{ "name": "text-superwin", "parent": "all-all", "y": 82.75 },
+	{ "name": "text-superwin", "parent": "all-all", "y": 89.54 },
 	{ "name": "money-number", "parent": "all-all", "y": -10 },
 	{ "name": "bg", "parent": "bone5", "y": 15.21 },
 	{ "name": "outer", "parent": "character", "y": 77.38 },
@@ -108,7 +108,6 @@
 	{ "name": "trung", "bone": "trung", "attachment": "trung" },
 	{ "name": "hat", "bone": "hat", "attachment": "hat" },
 	{ "name": "ngua/ngua0000", "bone": "ngua", "attachment": "ngua/ngua0023" },
-	{ "name": "text-superwin", "bone": "text-superwin" },
 	{ "name": "frame", "bone": "frame", "attachment": "frame-green" },
 	{ "name": "gold18", "bone": "gold17" },
 	{ "name": "gold22", "bone": "gold20" },
@@ -125,7 +124,8 @@
 	{ "name": "light8", "bone": "light8", "attachment": "light", "blend": "additive" },
 	{ "name": "light6", "bone": "light6", "attachment": "light", "blend": "additive" },
 	{ "name": "light7", "bone": "light7", "attachment": "light", "blend": "additive" },
-	{ "name": "light3", "bone": "light3", "attachment": "light", "blend": "additive" }
+	{ "name": "light3", "bone": "light3", "attachment": "light", "blend": "additive" },
+	{ "name": "text-superwin", "bone": "text-superwin" }
 ],
 "skins": [
 	{
