@@ -1,250 +1,299 @@
 
 icon-game.webp
-size: 1902,809
+size: 1987,808
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+Ellipse 1
+  rotate: true
+  xy: 299, 394
+  size: 98, 36
+  orig: 104, 40
+  offset: 3, 2
+  index: -1
 bg-icon
   rotate: false
-  xy: 0, 380
+  xy: 0, 379
   size: 196, 429
   orig: 203, 429
   offset: 3, 0
   index: -1
 blue
   rotate: false
-  xy: 24, 6
+  xy: 0, 5
   size: 14, 30
   orig: 14, 30
   offset: 0, 0
   index: -1
-green
+dayco1
   rotate: false
-  xy: 0, 0
+  xy: 166, 0
+  size: 200, 61
+  orig: 200, 61
+  offset: 0, 0
+  index: -1
+dayco2
+  rotate: false
+  xy: 428, 446
+  size: 203, 46
+  orig: 203, 46
+  offset: 0, 0
+  index: -1
+green
+  rotate: true
+  xy: 69, 13
   size: 22, 36
   orig: 22, 36
   offset: 0, 0
   index: -1
+hamduoi
+  rotate: true
+  xy: 128, 16
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+hamtren
+  rotate: true
+  xy: 107, 13
+  size: 22, 19
+  orig: 23, 19
+  offset: 1, 0
+  index: -1
 highlight
   rotate: false
-  xy: 166, 15
+  xy: 407, 37
   size: 194, 47
   orig: 194, 56
   offset: 0, 9
   index: -1
 hong
   rotate: false
-  xy: 198, 421
+  xy: 368, 12
   size: 37, 72
   orig: 37, 72
   offset: 0, 0
   index: -1
 light
   rotate: false
-  xy: 237, 452
+  xy: 428, 403
   size: 41, 41
   orig: 94, 94
   offset: 25, 24
   index: -1
 new/dance038
   rotate: false
-  xy: 1514, 195
+  xy: 1539, 502
   size: 165, 306
   orig: 250, 357
   offset: 80, 11
   index: -1
 new/dance040
   rotate: false
-  xy: 1346, 191
+  xy: 1371, 501
   size: 166, 307
   orig: 250, 357
   offset: 79, 11
   index: -1
 new/dance042
   rotate: false
-  xy: 1362, 503
+  xy: 1512, 193
   size: 169, 306
   orig: 250, 357
   offset: 76, 11
   index: -1
 new/dance044
   rotate: true
-  xy: 1291, 17
+  xy: 1312, 16
   size: 170, 306
   orig: 250, 357
   offset: 73, 11
   index: -1
 new/dance046
-  rotate: false
-  xy: 1533, 505
+  rotate: true
+  xy: 1683, 331
   size: 169, 304
   orig: 250, 357
   offset: 70, 11
   index: -1
 new/dance048
-  rotate: true
-  xy: 1599, 28
-  size: 165, 303
+  rotate: false
+  xy: 1706, 506
+  size: 164, 302
   orig: 250, 357
-  offset: 69, 10
+  offset: 70, 10
   index: -1
 new/dance050
-  rotate: false
-  xy: 1704, 509
+  rotate: true
+  xy: 1620, 1
   size: 160, 300
   orig: 250, 357
   offset: 71, 10
   index: -1
 new/dance052
-  rotate: false
-  xy: 1681, 202
+  rotate: true
+  xy: 1683, 163
   size: 166, 301
   orig: 250, 357
   offset: 64, 10
   index: -1
 new/dance054
   rotate: true
-  xy: 985, 11
+  xy: 1006, 9
   size: 174, 304
   orig: 250, 357
   offset: 56, 10
   index: -1
 new/dance056
   rotate: true
-  xy: 362, 0
+  xy: 696, 4
   size: 177, 308
   orig: 250, 357
   offset: 51, 9
   index: -1
 new/dance058
-  rotate: true
-  xy: 672, 1
+  rotate: false
+  xy: 696, 183
   size: 178, 311
   orig: 250, 357
   offset: 47, 8
   index: -1
 new/dance060
   rotate: false
-  xy: 520, 181
+  xy: 348, 86
   size: 182, 313
   orig: 250, 357
   offset: 44, 8
   index: -1
 new/dance061
   rotate: false
-  xy: 375, 496
-  size: 183, 313
+  xy: 546, 496
+  size: 183, 312
   orig: 250, 357
   offset: 44, 8
   index: -1
 new/dance063
   rotate: false
-  xy: 166, 64
+  xy: 166, 63
   size: 180, 314
   orig: 250, 357
   offset: 46, 8
   index: -1
 new/dance065
   rotate: false
-  xy: 198, 495
+  xy: 198, 494
   size: 175, 314
   orig: 250, 357
   offset: 48, 8
   index: -1
 new/dance067
   rotate: false
-  xy: 348, 179
-  size: 170, 314
+  xy: 375, 494
+  size: 169, 314
   orig: 250, 357
   offset: 48, 8
   index: -1
 new/dance069
   rotate: false
-  xy: 560, 496
-  size: 162, 313
+  xy: 532, 132
+  size: 162, 312
   orig: 250, 357
   offset: 49, 8
   index: -1
 new/dance071
   rotate: false
-  xy: 704, 183
+  xy: 731, 497
   size: 163, 311
   orig: 250, 357
   offset: 39, 8
   index: -1
 new/dance072
   rotate: false
-  xy: 724, 499
+  xy: 876, 185
   size: 163, 310
   orig: 250, 357
   offset: 33, 8
   index: -1
 new/dance073
   rotate: false
-  xy: 869, 187
-  size: 162, 310
+  xy: 1055, 499
+  size: 160, 309
   orig: 250, 357
-  offset: 29, 8
+  offset: 30, 8
   index: -1
 new/dance075
   rotate: false
-  xy: 1048, 500
-  size: 158, 309
+  xy: 1196, 188
+  size: 157, 309
   orig: 250, 357
   offset: 20, 8
   index: -1
 new/dance076
   rotate: false
-  xy: 1189, 189
-  size: 155, 309
+  xy: 1355, 189
+  size: 155, 308
   orig: 250, 357
   offset: 16, 8
   index: -1
 new/dance078
   rotate: false
-  xy: 1208, 500
+  xy: 1217, 499
   size: 152, 309
   orig: 250, 357
   offset: 9, 8
   index: -1
 new/dance080
   rotate: false
-  xy: 1033, 187
-  size: 154, 310
+  xy: 1041, 186
+  size: 153, 310
   orig: 250, 357
   offset: 3, 8
   index: -1
 new/dance082
   rotate: false
-  xy: 889, 499
+  xy: 896, 498
   size: 157, 310
   orig: 250, 357
   offset: 1, 8
   index: -1
 new/den
   rotate: false
-  xy: 0, 38
+  xy: 0, 37
   size: 164, 340
   orig: 171, 345
   offset: 4, 4
   index: -1
+ngua
+  rotate: false
+  xy: 198, 382
+  size: 99, 110
+  orig: 99, 110
+  offset: 0, 0
+  index: -1
 outer
   rotate: false
-  xy: 40, 9
+  xy: 16, 8
   size: 27, 27
   orig: 34, 43
   offset: 4, 8
   index: -1
 pink
-  rotate: false
-  xy: 93, 19
+  rotate: true
+  xy: 69, 1
   size: 10, 17
   orig: 10, 17
   offset: 0, 0
   index: -1
+sao
+  rotate: false
+  xy: 337, 401
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
 vang
   rotate: false
-  xy: 69, 9
+  xy: 45, 8
   size: 22, 27
   orig: 23, 28
   offset: 0, 1
