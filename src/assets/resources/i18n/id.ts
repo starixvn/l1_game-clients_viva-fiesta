@@ -278,11 +278,11 @@ export const languages = {
         "turbo_mode": "Mode Turbo",
         "warning_trial_mode": "Main Nyata,\\nMenang Nyata",
         "win_tumble_msg": "SELAMAT!",
-        "you_win_free_spin": "Anda memenangkan"
+        "you_win_free_spin": "Anda menang"
     },
-    "FruitSamurai": {
-        "game_icon_name": "Fruit Samurai",
-        "game_name": "Fruit Samurai"
+    "VivaFiesta": {
+        "game_icon_name": "Viva Fiesta",
+        "game_name": "Viva Fiesta"
     }
 };
 

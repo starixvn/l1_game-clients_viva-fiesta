@@ -280,9 +280,9 @@ export const languages = {
         "win_tumble_msg": "CONGRATULATION!",
         "you_win_free_spin": "You win"
     },
-    "FruitSamurai": {
-        "game_icon_name": "Fruit Samurai",
-        "game_name": "Fruit Samurai"
+    "VivaFiesta": {
+        "game_icon_name": "Viva Fiesta",
+        "game_name": "Viva Fiesta"
     }
 };
 

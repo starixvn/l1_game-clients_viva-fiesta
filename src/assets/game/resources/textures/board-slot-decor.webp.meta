@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c24fe27c-3eea-4ebe-9428-940f8d7a7a7e",
+  "files": [
+    ".json",
+    ".webp"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "c24fe27c-3eea-4ebe-9428-940f8d7a7a7e@6c48a",
+      "displayName": "board-slot-decor",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "c24fe27c-3eea-4ebe-9428-940f8d7a7a7e",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "c24fe27c-3eea-4ebe-9428-940f8d7a7a7e@f9941",
+      "displayName": "board-slot-decor",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -5.5,
+        "trimX": 1,
+        "trimY": 14,
+        "width": 788,
+        "height": 622,
+        "rawWidth": 790,
+        "rawHeight": 639,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -394,
+            -311,
+            0,
+            394,
+            -311,
+            0,
+            -394,
+            311,
+            0,
+            394,
+            311,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            1,
+            625,
+            789,
+            625,
+            1,
+            3,
+            789,
+            3
+          ],
+          "nuv": [
+            0.0012658227848101266,
+            0.004694835680751174,
+            0.9987341772151899,
+            0.004694835680751174,
+            0.0012658227848101266,
+            0.9780907668231612,
+            0.9987341772151899,
+            0.9780907668231612
+          ],
+          "minPos": [
+            -394,
+            -311,
+            0
+          ],
+          "maxPos": [
+            394,
+            311,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c24fe27c-3eea-4ebe-9428-940f8d7a7a7e@6c48a",
+        "atlasUuid": "",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": false,
+    "redirect": "c24fe27c-3eea-4ebe-9428-940f8d7a7a7e@6c48a"
+  }
+}
