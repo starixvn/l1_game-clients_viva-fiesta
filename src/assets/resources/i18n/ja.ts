@@ -286,7 +286,7 @@ export const languages = {
     },
     "VivaFiesta": {
         "game_icon_name": "Viva Fiesta",
-        "game_name": "ビバ・フィエスタ"
+        "game_name": "Viva Fiesta"
     }
 };
 
