@@ -1,22 +1,30 @@
 {
     "lobbyNames": {
         "en": "Viva Fiesta",
+        "es": "Viva Fiesta",
+        "fil_ph": "Viva Fiesta",
         "id": "Viva Fiesta",
+        "ja": "Viva Fiesta",
+        "ko": "비바 피에스타",
+        "pt_br": "Viva a Festa",
         "th": "Viva Fiesta",
+        "tr": "Viva Fiesta",
         "vi": "Vui Hội\nMexico",
         "zh_cn": "狂欢节万岁",
-        "zh_tw": "狂歡節萬歲",
-        "ja": "Viva Fiesta",
-        "es": "Viva Fiesta"
+        "zh_tw": "狂歡節萬歲"
     },
     "gameNames": {
         "en": "Viva Fiesta",
+        "es": "Viva Fiesta",
+        "fil_ph": "Viva Fiesta",
         "id": "Viva Fiesta",
+        "ja": "Viva Fiesta",
+        "ko": "비바 피에스타",
+        "pt_br": "Viva a Festa",
         "th": "Viva Fiesta",
+        "tr": "Viva Fiesta",
         "vi": "Vui Hội Mexico",
         "zh_cn": "狂欢节万岁",
-        "zh_tw": "狂歡節萬歲",
-        "ja": "Viva Fiesta",
-        "es": "Viva Fiesta"
+        "zh_tw": "狂歡節萬歲"
     }
 }
